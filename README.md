@@ -16,7 +16,7 @@
 
 # Autores
 
-| [<img src="" width=115><br><sub>Isabela Queiroz</sub>](https://github.com/IsabelaQM) |
+| [<img src="https://user-images.githubusercontent.com/106333972/202340292-ce0a6abc-d3a0-4d62-9f3e-643dc7485bfa.jpg" width=150><br><sub>Isabela Queiroz</sub>](https://github.com/IsabelaQM) |
 | :---: | :---: | :---: |
 
 
