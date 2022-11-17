@@ -1,5 +1,5 @@
-# Speed Wiz Dev - Semana 1
+#  Speed Wiz Dev - Semana 1
 
-![document-g5b460458b_640](https://user-images.githubusercontent.com/106333972/202333225-d909a669-5198-470c-82b8-629ce126655a.png)
+![66350-checklist](https://user-images.githubusercontent.com/106333972/202333931-5d6af9d7-1925-4d39-ba9e-7addde334d8e.gif)
 
 - Formulário de interesses
