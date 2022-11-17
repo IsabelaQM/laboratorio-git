@@ -14,9 +14,9 @@
 - ``HTML``
 - ``Visual Studio Code``
 
-# Autores
+## 📝 Autores
 
-| [<img src="https://user-images.githubusercontent.com/106333972/202340292-ce0a6abc-d3a0-4d62-9f3e-643dc7485bfa.jpg" width=150><br><sub>Isabela Queiroz</sub>](https://github.com/IsabelaQM) |
-| :---: | :---: | :---: |
+| [<img src="https://user-images.githubusercontent.com/106333972/202342804-27f3fd89-e64a-4b79-9c46-b506c0433a56.jpg" width=150 height=150 alt="Foto de perfil"><br><sub>Isabela Queiroz</sub>](https://github.com/IsabelaQM) |
+| :---: |
 
 
